@@ -98,7 +98,6 @@ __OUTPUT GRAPH:__
 
 <img width="754" height="694" alt="Screenshot 2025-11-13 161813" src="https://github.com/user-attachments/assets/fc0875f9-ea9e-4817-9453-fa7252a43071" />
 
-
 __RESULT:__
 
 Thus, the program for mean and variance and cross relation in scilab has been done and output is verified
